@@ -1,5 +1,5 @@
 [![Shadow-Welcome-March-Banner-sdf-1.png](https://i.postimg.cc/WzTFVrrj/Shadow-Welcome-March-Banner-sdf-1.png)](https://postimg.cc/62b5L8Y1)
-<h1 align="center">Hola🙋🏻‍♀️, Soy Dai 👩🏻‍💻 </h1>
+<h1 align="center">¡Hola!🙋🏻‍♀️, Soy Dai 👩🏻‍💻 </h1>
 <h3 align="center"> </h3>
 
 Estudiante de **Ciencias de la computacion en la Universidad de Buenos Aires y Desarrollo web Full Stack en Educacion IT**
