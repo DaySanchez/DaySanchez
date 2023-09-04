@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, Soy Daiana Sanchez</h1>
+<h1 align="center">Hola🙋‍♀️, Soy Daiana Sanchez</h1>
 <h3 align="center"> </h3>
 
 Estudiante de **Ciencias de la computacion en la Universidad de Buenos Aires y Desarrollo web Full Stack en Educacion IT**
