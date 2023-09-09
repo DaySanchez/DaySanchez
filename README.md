@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola!🙋🏻‍♀️, Soy Dai 👩🏻‍💻 </h1>
 <h3 align="center"> </h3>
 
-Estudiante de **Ciencias de la computacion en la Universidad de Buenos Aires, Desarrollo web Full Stack en Educacion IT y Diseño UX **
+Estudiante de Ciencias de la computacion en la Universidad de Buenos Aires, Desarrollo web Full Stack en Educacion IT y Diseño UX
 
 Apasionada por el mundo de la tecnología, el arte y la música. 
 Me considero creativa, sociable, con habilidades analíticas, resolutiva, capaz de enfrentar desafíos técnicos y trabajar en equipo. 
