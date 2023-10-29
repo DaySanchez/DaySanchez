@@ -4,8 +4,7 @@
 
 Estudiante de **Ciencias de la computacion en la Universidad de Buenos Aires, Desarrollo web Full Stack en Educacion IT y Analisis de Datos**
 
-Apasionada por el mundo de la tecnología, el arte y la música. 
-Me considero creativa, sociable, con habilidades analíticas, resolutiva, capaz de enfrentar desafíos técnicos y trabajar en equipo. 
+Apasionada por el mundo de la tecnología, el arte y la música :)
 
 Busco estar constantemente aprendiendo y explorando nuevas tecnologías para mantenerme actualizada y seguir creciendo profesionalmente
 
