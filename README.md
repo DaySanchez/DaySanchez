@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola!🙋🏻‍♀️, Soy Dai 👩🏻‍💻 </h1>
 <h3 align="center"> </h3>
 
-Estudiante de **Ciencias de la computacion en la Universidad de Buenos Aires, Desarrollo web Full Stack en Educacion IT y Analisis de Datos**
+Estudiante de **Ciencias de la computacion en la Universidad de Buenos Aires, Desarrollo web Full Stack**
 
 Apasionada por el mundo de la tecnología, el arte y la música :)
 
